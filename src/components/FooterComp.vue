@@ -2,7 +2,7 @@
 
 <template>
   <div>
-    <h1>Home View</h1>
+    <h1>Footer</h1>
   </div>
 </template>
 
